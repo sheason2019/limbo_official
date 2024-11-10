@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklimbo_official=self.webpackChunklimbo_official||[]).push([[947],{6600:s=>{s.exports=JSON.parse('{"authors":[{"name":"Sheason","url":"https://github.com/sheason2019","page":{"permalink":"/blog/authors/sheason"},"key":"sheason","count":1}]}')}}]);
