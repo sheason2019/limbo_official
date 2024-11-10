@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/blog</id>
+    <id>https://your-docusaurus-site.example.com/limbo_official/blog</id>
     <title>Limbo Blog</title>
     <updated>2024-11-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/limbo_official/blog"/>
     <subtitle>Limbo Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <icon>https://your-docusaurus-site.example.com/limbo_official/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/hello-world</id>
-        <link href="https://your-docusaurus-site.example.com/blog/hello-world"/>
+        <id>https://your-docusaurus-site.example.com/limbo_official/blog/hello-world</id>
+        <link href="https://your-docusaurus-site.example.com/limbo_official/blog/hello-world"/>
         <updated>2024-11-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello world]]></summary>
         <content type="html"><![CDATA[<p>Hello world</p>]]></content>

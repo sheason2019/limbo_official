@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklimbo_official=self.webpackChunklimbo_official||[]).push([[77],{1225:l=>{l.exports=JSON.parse('{"metadata":{"permalink":"/limbo_official/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

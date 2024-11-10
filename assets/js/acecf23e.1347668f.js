@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklimbo_official=self.webpackChunklimbo_official||[]).push([[903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/limbo_official/blog","blogTitle":"Blog","authorsListPath":"/limbo_official/blog/authors"}')}}]);

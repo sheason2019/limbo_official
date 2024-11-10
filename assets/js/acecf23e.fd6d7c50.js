@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklimbo_official=self.webpackChunklimbo_official||[]).push([[903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
