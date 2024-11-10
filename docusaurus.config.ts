@@ -8,10 +8,12 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   url: "https://your-docusaurus-site.example.com",
-  baseUrl: "/",
+  baseUrl: "/limbo_official",
 
-  organizationName: "sheason",
-  projectName: "Limbo",
+  organizationName: "sheason2019",
+  projectName: "limbo_official",
+  deploymentBranch: "gh-pages",
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
