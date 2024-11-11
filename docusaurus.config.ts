@@ -75,6 +75,11 @@ const config: Config = {
         },
         { to: "/blog", label: "博客", position: "left" },
         {
+          href: "https://github.com/sheason2019/limbo/releases/latest",
+          label: "下载客户端",
+          position: "right",
+        },
+        {
           href: "https://github.com/sheason2019/limbo",
           label: "GitHub",
           position: "right",
